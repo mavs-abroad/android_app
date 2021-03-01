@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "498178216731",
+    "project_id": "mavs-abroad-73401",
+    "storage_bucket": "mavs-abroad-73401.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:498178216731:android:9550a366a390c40beab9be",
+        "android_client_info": {
+          "package_name": "com.uta.mavs_abroad"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "498178216731-ls5dlnpklec0292608br8a78teooi4b5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMmB3owC_3PoZXgBMWzRE0Wq9dFH-UOco"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "498178216731-ls5dlnpklec0292608br8a78teooi4b5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
